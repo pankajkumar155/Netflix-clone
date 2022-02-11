@@ -1,5 +1,5 @@
 # Netflix Clone
-A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
+ Simple, practice oriented, clone of the Netflix Homepage. Built with:
 
 * HTML
 * CSS
